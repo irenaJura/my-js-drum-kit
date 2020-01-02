@@ -1,6 +1,13 @@
-# Welcome to GitHub Desktop!
+Vanilla JavaScript Drum Kit
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+Day 1 in the 30 days of JavaScript by Wes Bos.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
-Irena
+I created a short animation and sound for certain keys.
+
+I used Keycode.info website to find the associated number for a specific key.
+
+Audio tags contain data-key custom attribute, which connect a key with the associated sound effect.
+
+JavaScript event listeners used here are keydown and keyup.
+
+JavaScript code was written in ES6 syntax.
