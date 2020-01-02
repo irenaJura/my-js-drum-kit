@@ -8,6 +8,6 @@ I used Keycode.info website to find the associated number for a specific key.
 
 Audio tags contain data-key custom attribute, which connect a key with the associated sound effect.
 
-JavaScript event listeners used here are keydown and keyup.
+JavaScript event listeners used in this project are keydown and transitionend.
 
 JavaScript code was written in ES6 syntax.
